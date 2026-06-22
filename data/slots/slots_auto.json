@@ -1,0 +1,314 @@
+{
+  "image_shape": [
+    720,
+    1100
+  ],
+  "slots": [
+    {
+      "id": 0,
+      "bbox": [
+        96,
+        108,
+        216,
+        172
+      ],
+      "center": [
+        156,
+        140
+      ],
+      "row": 0,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 1,
+      "bbox": [
+        475,
+        108,
+        525,
+        172
+      ],
+      "center": [
+        500,
+        140
+      ],
+      "row": 0,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 2,
+      "bbox": [
+        525,
+        108,
+        573,
+        172
+      ],
+      "center": [
+        549,
+        140
+      ],
+      "row": 0,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 3,
+      "bbox": [
+        96,
+        166,
+        216,
+        230
+      ],
+      "center": [
+        156,
+        198
+      ],
+      "row": 1,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 4,
+      "bbox": [
+        475,
+        166,
+        525,
+        230
+      ],
+      "center": [
+        500,
+        198
+      ],
+      "row": 1,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 5,
+      "bbox": [
+        525,
+        166,
+        573,
+        230
+      ],
+      "center": [
+        549,
+        198
+      ],
+      "row": 1,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 6,
+      "bbox": [
+        96,
+        236,
+        216,
+        300
+      ],
+      "center": [
+        156,
+        268
+      ],
+      "row": 2,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 7,
+      "bbox": [
+        475,
+        236,
+        525,
+        300
+      ],
+      "center": [
+        500,
+        268
+      ],
+      "row": 2,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 8,
+      "bbox": [
+        525,
+        236,
+        573,
+        300
+      ],
+      "center": [
+        549,
+        268
+      ],
+      "row": 2,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 9,
+      "bbox": [
+        96,
+        306,
+        216,
+        370
+      ],
+      "center": [
+        156,
+        338
+      ],
+      "row": 3,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 10,
+      "bbox": [
+        475,
+        306,
+        525,
+        370
+      ],
+      "center": [
+        500,
+        338
+      ],
+      "row": 3,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 11,
+      "bbox": [
+        525,
+        306,
+        573,
+        370
+      ],
+      "center": [
+        549,
+        338
+      ],
+      "row": 3,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 12,
+      "bbox": [
+        96,
+        369,
+        216,
+        433
+      ],
+      "center": [
+        156,
+        401
+      ],
+      "row": 4,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 13,
+      "bbox": [
+        475,
+        369,
+        525,
+        433
+      ],
+      "center": [
+        500,
+        401
+      ],
+      "row": 4,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 14,
+      "bbox": [
+        525,
+        369,
+        573,
+        433
+      ],
+      "center": [
+        549,
+        401
+      ],
+      "row": 4,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 15,
+      "bbox": [
+        96,
+        437,
+        216,
+        501
+      ],
+      "center": [
+        156,
+        469
+      ],
+      "row": 5,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 16,
+      "bbox": [
+        475,
+        437,
+        525,
+        501
+      ],
+      "center": [
+        500,
+        469
+      ],
+      "row": 5,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    },
+    {
+      "id": 17,
+      "bbox": [
+        525,
+        437,
+        573,
+        501
+      ],
+      "center": [
+        549,
+        469
+      ],
+      "row": 5,
+      "occupied": false,
+      "confidence": 0.0,
+      "vehicle": null
+    }
+  ]
+}

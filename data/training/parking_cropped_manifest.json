@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "name": "ParkingCropped",
+      "image": "../../assets/images/ParkingCropped.jpeg",
+      "slots_path": "../slots/parking_cropped_slots.json",
+      "split": "train"
+    },
+    {
+      "name": "ParkingCropped2",
+      "image": "../../assets/images/ParkingCropped2.jpeg",
+      "slots_path": "../slots/parking_cropped_slots.json",
+      "split": "train"
+    },
+    {
+      "name": "ParkingCropped3",
+      "image": "../../assets/images/ParkingCropped3.jpeg",
+      "slots_path": "../slots/parking_cropped_slots.json",
+      "split": "val"
+    }
+  ]
+}
+

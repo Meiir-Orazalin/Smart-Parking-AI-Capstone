@@ -1,0 +1,6 @@
+path: /Users/dilshod/Desktop/Repos/smart-parking-demo/data/training/slot_dataset
+train: images/train
+val: images/val
+nc: 1
+names:
+  - slot

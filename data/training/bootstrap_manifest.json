@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "image": "assets/images/ParkingCropped.jpeg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingCropped"
+    },
+    {
+      "image": "assets/images/ParkingCropped2.jpeg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingCropped2"
+    },
+    {
+      "image": "assets/images/ParkingCropped3.jpeg",
+      "slots_path": "data/slots/slots.json",
+      "split": "val",
+      "name": "ParkingCropped3"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000000.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000000"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000060.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000060"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000120.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000120"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000180.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000180"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000240.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000240"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000300.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000300"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000360.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000360"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000420.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000420"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000480.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000480"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000540.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000540"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000600.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000600"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000660.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "train",
+      "name": "ParkingVideo_000660"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000720.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "val",
+      "name": "ParkingVideo_000720"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000780.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "val",
+      "name": "ParkingVideo_000780"
+    },
+    {
+      "image": "data/training/bootstrap_frames/ParkingVideo_000840.jpg",
+      "slots_path": "data/slots/slots.json",
+      "split": "val",
+      "name": "ParkingVideo_000840"
+    }
+  ]
+}

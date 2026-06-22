@@ -1,0 +1,2 @@
+"""Smart Parking application package."""
+
